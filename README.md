@@ -26,6 +26,8 @@ This project demonstrates a dynamic bar chart using Chart.js library to visualiz
 
 2.The dynamic chart will be displayed on the webpage, showcasing employee salary and age data.
 
+3.Click the Employee Salary or Employee Age above to visualize the graph. 
+
 ### Dependencies
 • Bootstrap v5.3.2
 
